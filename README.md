@@ -292,6 +292,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 - [YATI (Yet Another Tiled Importer](https://github.com/Kiamo2/YATI) - This is an addon for importing files (.tmx, .tmj) created by the [Tiled Map Editor](https://github.com/mapeditor/tiled).
 - [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
+- [Sketchfab](https://github.com/StrayEddy/sketchfab-godot-plugin) - A plugin that make you easy to import models from Sketchfab to Godot(Godot 4 beta 2+)
 
 #### Godot 3
 
